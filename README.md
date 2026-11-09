@@ -44,10 +44,6 @@ built around an ESP32S3.
 
 Recorded pixel by pixel from the device's display, running with simulated flight data.
 
-**Boot animation** (calibration of motion sensor, barometer and GPS):
-
-<img src="media/boot.gif" alt="Boot animation" width="512">
-
 **Flight screen** (end of a glide, then entering a thermal):
 
 <img src="media/flight.gif" alt="Flight screen" width="512">
@@ -147,10 +143,6 @@ Yamaç paraşütü için kendi yaptığım küçük bir uçuş bilgisayarı: var
 ### Ekran
 
 Cihazın ekranından piksel piksel kaydedildi; simüle edilmiş uçuş verisiyle çalışıyor.
-
-**Açılış animasyonu** (hareket sensörü, barometre ve GPS kalibrasyonu):
-
-<img src="media/boot.gif" alt="Açılış animasyonu" width="512">
 
 **Uçuş ekranı** (süzülüşün sonu, ardından termiğe giriş):
 
